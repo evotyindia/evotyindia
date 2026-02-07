@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tech Enthusiast: Coding and designing.<br>Aspiring Developer: BCA student.<br>Creative Projects: Building apps and websites.<br>Future MCA Aspirant: Aiming for NIT Trichy.
+Tech Enthusiast: Coding and designing.<br>Aspiring Developer: BCA student.<br>Creative Projects: Building apps and websites.
 
 
 ## 🌐 Socials:
