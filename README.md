@@ -1,25 +1,128 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>🔭 Currently building  <br>Smart systems & full-stack apps that solve real-world problems  <br><br>🤝 Open to collaborate on  <br>Tech that makes impact — especially in agriculture 🌱 & health-tech ❤️  <br><br>🆘 Need help with  <br>System design thinking & scaling production-level apps  <br><br>🌱 Learning journey  <br>JavaScript → Next.js → Full-stack mastery  <br><br>💬 Talk to me about  <br>IoT, AWS, React, Firebase, or turning ideas into working products  <br><br>⚡ Fun fact  <br>I learn fast… but I build even faster ⚡
+<div align="center">
 
+<!-- Neon / Futuristic Hero -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/evotyindia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arryaan30@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1224,100:1a1443&height=120&section=header&text=Aryan%20Yadav&fontSize=46&fontColor=16f2b3&animation=fadeIn" alt="header" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=evotyindia&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=evotyindia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=evotyindia&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/evotyindia"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-evotyindia-0d1224?style=for-the-badge&logo=github&logoColor=16f2b3" /></a>
+  <a href="https://www.linkedin.com/in/evotyindia/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0d1224?style=for-the-badge&logo=linkedin&logoColor=16f2b3" /></a>
+  <a href="mailto:arryaan30@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arryaan30%40gmail.com-0d1224?style=for-the-badge&logo=gmail&logoColor=16f2b3" /></a>
+  <a href="https://github.com/evotyindia/PortfolioWebsite"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-0d1224?style=for-the-badge&logo=vercel&logoColor=16f2b3" /></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=evotyindia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=16F2B3&center=true&vCenter=true&width=680&lines=Curious+mind.+Hands-on+builder.;Problem+solver+%E2%80%A2+Leadership+%26+team+coordination.;Learning+by+building+%E2%80%A2+Shipping+consistently." alt="typing" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=evotyindia&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=evotyindia&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## About Me
+
+I’m **Aryan Yadav** — a curious mind and hands-on builder who turns ideas into real, working products.
+
+- **Strengths:** Leadership & team coordination • Problem-solving mindset • Learn by building
+- **Focus:** Futuristic, dark-themed, performance-first web experiences
+
+---
+
+## Tech Stack (core)
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-0d1224?style=for-the-badge&logo=nextdotjs&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/React-0d1224?style=for-the-badge&logo=react&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1224?style=for-the-badge&logo=typescript&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1224?style=for-the-badge&logo=javascript&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0d1224?style=for-the-badge&logo=tailwindcss&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/Docker-0d1224?style=for-the-badge&logo=docker&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/AWS-0d1224?style=for-the-badge&logo=amazonaws&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/Firebase-0d1224?style=for-the-badge&logo=firebase&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/MongoDB-0d1224?style=for-the-badge&logo=mongodb&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1224?style=for-the-badge&logo=postgresql&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/MySQL-0d1224?style=for-the-badge&logo=mysql&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/Nginx-0d1224?style=for-the-badge&logo=nginx&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/Strapi-0d1224?style=for-the-badge&logo=strapi&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/Figma-0d1224?style=for-the-badge&logo=figma&logoColor=16f2b3" />
+</p>
+
+<details>
+<summary><b>More tools I use</b></summary>
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Go-0d1224?style=for-the-badge&logo=go&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/Bootstrap-0d1224?style=for-the-badge&logo=bootstrap&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/HTML5-0d1224?style=for-the-badge&logo=html5&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/CSS3-0d1224?style=for-the-badge&logo=css3&logoColor=16f2b3" />
+</p>
+
+</details>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>PortfolioWebsite</h3>
+      <p>Futuristic, dark-themed portfolio built with <b>Next.js</b> + <b>Tailwind</b> — glassmorphism UI, scroll-tracking navbar, Lottie sections, and a working contact flow.</p>
+      <p>
+        <a href="https://github.com/evotyindia/PortfolioWebsite"><img src="https://img.shields.io/badge/Repo-0d1224?style=for-the-badge&logo=github&logoColor=16f2b3" /></a>
+        <img src="https://img.shields.io/badge/Next.js-0d1224?style=for-the-badge&logo=nextdotjs&logoColor=16f2b3" />
+        <img src="https://img.shields.io/badge/Tailwind-0d1224?style=for-the-badge&logo=tailwindcss&logoColor=16f2b3" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>EatWise-Project</h3>
+      <p>AI-powered nutrition guide to help Indians make healthier food choices — label analysis, recipe suggestions, and personalized dietary advice.</p>
+      <p>
+        <a href="https://github.com/evotyindia/EatWise-Project"><img src="https://img.shields.io/badge/Repo-0d1224?style=for-the-badge&logo=github&logoColor=16f2b3" /></a>
+        <img src="https://img.shields.io/badge/TypeScript-0d1224?style=for-the-badge&logo=typescript&logoColor=16f2b3" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=evotyindia&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evotyindia&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=evotyindia&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evotyindia&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/evotyindia"><img src="https://img.shields.io/badge/GitHub-evotyindia-0d1224?style=for-the-badge&logo=github&logoColor=16f2b3" /></a>
+  <a href="https://www.linkedin.com/in/evotyindia/"><img src="https://img.shields.io/badge/LinkedIn-evotyindia-0d1224?style=for-the-badge&logo=linkedin&logoColor=16f2b3" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Placeholder-0d1224?style=for-the-badge&logo=linkedin&logoColor=16f2b3" /></a>
+</p>
+
+---
+
+## Fun (low-key)
+
+<b>Ship ߺ:</b> I learn fast but I build even faster.
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=evotyindia&icon=0&color=16f2b3" />
+</p>
