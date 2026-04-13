@@ -36,14 +36,8 @@ I’m **Aryan Yadav** — a curious mind and hands-on builder who turns ideas in
   <img src="https://img.shields.io/badge/TypeScript-0d1224?style=for-the-badge&logo=typescript&logoColor=16f2b3" />
   <img src="https://img.shields.io/badge/JavaScript-0d1224?style=for-the-badge&logo=javascript&logoColor=16f2b3" />
   <img src="https://img.shields.io/badge/TailwindCSS-0d1224?style=for-the-badge&logo=tailwindcss&logoColor=16f2b3" />
-  <img src="https://img.shields.io/badge/Docker-0d1224?style=for-the-badge&logo=docker&logoColor=16f2b3" />
-  <img src="https://img.shields.io/badge/AWS-0d1224?style=for-the-badge&logo=amazonaws&logoColor=16f2b3" />
   <img src="https://img.shields.io/badge/Firebase-0d1224?style=for-the-badge&logo=firebase&logoColor=16f2b3" />
-  <img src="https://img.shields.io/badge/MongoDB-0d1224?style=for-the-badge&logo=mongodb&logoColor=16f2b3" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1224?style=for-the-badge&logo=postgresql&logoColor=16f2b3" />
   <img src="https://img.shields.io/badge/MySQL-0d1224?style=for-the-badge&logo=mysql&logoColor=16f2b3" />
-  <img src="https://img.shields.io/badge/Nginx-0d1224?style=for-the-badge&logo=nginx&logoColor=16f2b3" />
-  <img src="https://img.shields.io/badge/Strapi-0d1224?style=for-the-badge&logo=strapi&logoColor=16f2b3" />
   <img src="https://img.shields.io/badge/Figma-0d1224?style=for-the-badge&logo=figma&logoColor=16f2b3" />
 </p>
 
