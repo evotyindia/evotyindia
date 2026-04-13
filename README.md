@@ -8,7 +8,6 @@
   <a href="https://github.com/evotyindia"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-evotyindia-0d1224?style=for-the-badge&logo=github&logoColor=16f2b3" /></a>
   <a href="https://www.linkedin.com/in/evotyindia/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0d1224?style=for-the-badge&logo=linkedin&logoColor=16f2b3" /></a>
   <a href="mailto:arryaan30@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-arryaan30%40gmail.com-0d1224?style=for-the-badge&logo=gmail&logoColor=16f2b3" /></a>
-  <a href="https://github.com/evotyindia/PortfolioWebsite"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-0d1224?style=for-the-badge&logo=vercel&logoColor=16f2b3" /></a>
 </p>
 
 <p align="center">
@@ -69,15 +68,6 @@ I’m **Aryan Yadav** — a curious mind and hands-on builder who turns ideas in
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>PortfolioWebsite</h3>
-      <p>Futuristic, dark-themed portfolio built with <b>Next.js</b> + <b>Tailwind</b> — glassmorphism UI, scroll-tracking navbar, Lottie sections, and a working contact flow.</p>
-      <p>
-        <a href="https://github.com/evotyindia/PortfolioWebsite"><img src="https://img.shields.io/badge/Repo-0d1224?style=for-the-badge&logo=github&logoColor=16f2b3" /></a>
-        <img src="https://img.shields.io/badge/Next.js-0d1224?style=for-the-badge&logo=nextdotjs&logoColor=16f2b3" />
-        <img src="https://img.shields.io/badge/Tailwind-0d1224?style=for-the-badge&logo=tailwindcss&logoColor=16f2b3" />
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3>EatWise-Project</h3>
       <p>AI-powered nutrition guide to help Indians make healthier food choices — label analysis, recipe suggestions, and personalized dietary advice.</p>
