@@ -107,7 +107,6 @@ I’m **Aryan Yadav** — a curious mind and hands-on builder who turns ideas in
 <p align="center">
   <a href="https://github.com/evotyindia"><img src="https://img.shields.io/badge/GitHub-evotyindia-0d1224?style=for-the-badge&logo=github&logoColor=16f2b3" /></a>
   <a href="https://www.linkedin.com/in/evotyindia/"><img src="https://img.shields.io/badge/LinkedIn-evotyindia-0d1224?style=for-the-badge&logo=linkedin&logoColor=16f2b3" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Placeholder-0d1224?style=for-the-badge&logo=linkedin&logoColor=16f2b3" /></a>
 </p>
 
 ---
