@@ -31,14 +31,15 @@ I’m **Aryan Yadav** — a curious mind and hands-on builder who turns ideas in
 ## Tech Stack (core)
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-0d1224?style=for-the-badge&logo=nextdotjs&logoColor=16f2b3" />
-  <img src="https://img.shields.io/badge/React-0d1224?style=for-the-badge&logo=react&logoColor=16f2b3" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1224?style=for-the-badge&logo=typescript&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/C-0d1224?style=for-the-badge&logo=c&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/Java-0d1224?style=for-the-badge&logo=openjdk&logoColor=16f2b3" />
   <img src="https://img.shields.io/badge/JavaScript-0d1224?style=for-the-badge&logo=javascript&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/HTML5-0d1224?style=for-the-badge&logo=html5&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/CSS3-0d1224?style=for-the-badge&logo=css3&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/React-0d1224?style=for-the-badge&logo=react&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/Next.js-0d1224?style=for-the-badge&logo=nextdotjs&logoColor=16f2b3" />
   <img src="https://img.shields.io/badge/TailwindCSS-0d1224?style=for-the-badge&logo=tailwindcss&logoColor=16f2b3" />
   <img src="https://img.shields.io/badge/Firebase-0d1224?style=for-the-badge&logo=firebase&logoColor=16f2b3" />
-  <img src="https://img.shields.io/badge/MySQL-0d1224?style=for-the-badge&logo=mysql&logoColor=16f2b3" />
-  <img src="https://img.shields.io/badge/Figma-0d1224?style=for-the-badge&logo=figma&logoColor=16f2b3" />
 </p>
 
 <details>
@@ -46,10 +47,18 @@ I’m **Aryan Yadav** — a curious mind and hands-on builder who turns ideas in
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Go-0d1224?style=for-the-badge&logo=go&logoColor=16f2b3" />
-  <img src="https://img.shields.io/badge/Bootstrap-0d1224?style=for-the-badge&logo=bootstrap&logoColor=16f2b3" />
-  <img src="https://img.shields.io/badge/HTML5-0d1224?style=for-the-badge&logo=html5&logoColor=16f2b3" />
-  <img src="https://img.shields.io/badge/CSS3-0d1224?style=for-the-badge&logo=css3&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/AWS%20EC2-0d1224?style=for-the-badge&logo=amazonec2&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/WordPress-0d1224?style=for-the-badge&logo=wordpress&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/IoT%20%28Sensors%20%26%20MCUs%29-0d1224?style=for-the-badge&logo=arduino&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/Git-0d1224?style=for-the-badge&logo=git&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/GitHub-0d1224?style=for-the-badge&logo=github&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/VS%20Code-0d1224?style=for-the-badge&logo=visualstudiocode&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/Canva-0d1224?style=for-the-badge&logo=canva&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Vision%20API-0d1224?style=for-the-badge&logo=googlecloud&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/DeepSeek%20R1-0d1224?style=for-the-badge&logo=deepseek&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/Vercel-0d1224?style=for-the-badge&logo=vercel&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/Google%20Colab-0d1224?style=for-the-badge&logo=googlecolab&logoColor=16f2b3" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-0d1224?style=for-the-badge&logo=huggingface&logoColor=16f2b3" />
 </p>
 
 </details>
